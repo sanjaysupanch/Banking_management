@@ -1,0 +1,18 @@
+aacc_no(ifsc_code + date + time)
+name
+fathers/guardian's name
+aadhar_card(12 digits,No repeatition)
+pan
+email(email verification)
+phone number(10 digits)
+address(House no,vill/city,distt,state)
+age
+sex
+nominee
+debit Card number
+balance
+type of account(silver,gold,platinum)
+date of opening account
+# username
+password
+ifsc code
